@@ -1,0 +1,11 @@
+# Never commit raw logs, surveys, or the participant key
+HAT-*/
+bhvdata_*
+tlxdata_*
+*Participant_ID*
+*survey*
+*Survey*
+_PRIVATE_*/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/

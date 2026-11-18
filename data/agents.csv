@@ -1,0 +1,8 @@
+agent,role,capability_even_tasks,capability_odd_tasks
+R0,robot,3,2
+R1,robot,1,1
+R2,robot,3,1
+R3,robot,4,2
+R4,robot,2,0
+R5,robot,4,1
+H,human,2,2

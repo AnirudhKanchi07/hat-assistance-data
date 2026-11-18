@@ -1,0 +1,10 @@
+sessions,scenario,n,mean,sd
+All sessions,4 (S-AUI),45,7.8,3.7
+All sessions,5 (S-AUI-U),47,8.6,3.6
+All sessions,6 (S-AUI-D),43,6.9,2.6
+R group,4 (S-AUI),25,10.4,2.5
+R group,5 (S-AUI-U),26,11.2,2.5
+R group,6 (S-AUI-D),16,9.6,1.6
+NR group,4 (S-AUI),20,4.6,1.8
+NR group,5 (S-AUI-U),21,5.4,1.8
+NR group,6 (S-AUI-D),27,5.3,1.6

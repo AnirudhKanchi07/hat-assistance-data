@@ -1,0 +1,4 @@
+Scenario,t Statistic,p value (Holm),Effect Size,Confidence Intervals
+1 (LC) vs. 2 (MC),-1.2,1.0,-0.2,"[-1.9, 0.5]"
+1 (LC) vs. 3 (AUI),0.4,1.0,0.1,"[-0.8, 1.2]"
+2 (MC) vs. 3 (AUI),1.6,0.8,0.3,"[-0.2, 1.7]"
